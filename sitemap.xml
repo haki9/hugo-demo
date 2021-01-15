@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost/about/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/content/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/posts/get-start/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/hugo/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/posts/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/static-site-generator/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/test/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/about/about/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/posts/a/</loc>
+    <lastmod>2020-07-15T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/authors/</loc>
+  </url>
+  
+</urlset>

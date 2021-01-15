@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog.Hakool</title>
+    <link>http://localhost/tags/</link>
+    <description>Recent content in Tags on Blog.Hakool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate><atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>content</title>
+      <link>http://localhost/tags/content/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>http://localhost/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://localhost/tags/hugo/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>http://localhost/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static site generator</title>
+      <link>http://localhost/tags/static-site-generator/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>http://localhost/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://localhost/tags/test/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>http://localhost/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
