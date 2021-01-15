@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/about/</loc>
+    <loc>https://github.com/haki9/hugo-demo/about/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>https://github.com/haki9/hugo-demo/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/content/</loc>
+    <loc>https://github.com/haki9/hugo-demo/tags/content/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/posts/get-start/</loc>
+    <loc>https://github.com/haki9/hugo-demo/posts/get-start/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/hugo/</loc>
+    <loc>https://github.com/haki9/hugo-demo/tags/hugo/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/posts/</loc>
+    <loc>https://github.com/haki9/hugo-demo/posts/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/static-site-generator/</loc>
+    <loc>https://github.com/haki9/hugo-demo/tags/static-site-generator/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://github.com/haki9/hugo-demo/tags/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/test/</loc>
+    <loc>https://github.com/haki9/hugo-demo/tags/test/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/about/about/</loc>
+    <loc>https://github.com/haki9/hugo-demo/about/about/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/posts/a/</loc>
+    <loc>https://github.com/haki9/hugo-demo/posts/a/</loc>
     <lastmod>2020-07-15T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/authors/</loc>
+    <loc>https://github.com/haki9/hugo-demo/authors/</loc>
   </url>
   
 </urlset>

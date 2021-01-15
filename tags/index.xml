@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog.Hakool</title>
-    <link>http://localhost/tags/</link>
+    <link>https://github.com/haki9/hugo-demo/tags/</link>
     <description>Recent content in Tags on Blog.Hakool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate><atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate><atom:link href="https://github.com/haki9/hugo-demo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>content</title>
-      <link>http://localhost/tags/content/</link>
+      <link>https://github.com/haki9/hugo-demo/tags/content/</link>
       <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
       
-      <guid>http://localhost/tags/content/</guid>
+      <guid>https://github.com/haki9/hugo-demo/tags/content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://localhost/tags/hugo/</link>
+      <link>https://github.com/haki9/hugo-demo/tags/hugo/</link>
       <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
       
-      <guid>http://localhost/tags/hugo/</guid>
+      <guid>https://github.com/haki9/hugo-demo/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>static site generator</title>
-      <link>http://localhost/tags/static-site-generator/</link>
+      <link>https://github.com/haki9/hugo-demo/tags/static-site-generator/</link>
       <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
       
-      <guid>http://localhost/tags/static-site-generator/</guid>
+      <guid>https://github.com/haki9/hugo-demo/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>http://localhost/tags/test/</link>
+      <link>https://github.com/haki9/hugo-demo/tags/test/</link>
       <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
       
-      <guid>http://localhost/tags/test/</guid>
+      <guid>https://github.com/haki9/hugo-demo/tags/test/</guid>
       <description></description>
     </item>
     
